@@ -135,7 +135,83 @@ This enabled real-time analysis from a cloud database environment.
 
 # 🖥️ Dashboard Preview
 
-Main Dashboard- 
+* Main Dashboard- 
+![Main Dashboard](images2/Main_dashboard_page.png)
+
+* Brand Filters
+![Brand Filter](images2/Details.png)
+
+# 📊 Key Performance Indicators (KPIs)
+
+The dashboard focuses on analyzing several business-critical KPIs.
+
+Brand Performance KPIs
+
+* Average Discount Percentage
+* Average Profit Percentage
+* Average Sales Price
+
+Product Portfolio KPIs
+
+* Number of Product Variants per Brand
+* Brand Product Distribution
+
+Profitability KPIs
+
+* Top Brands by Profit Margin
+* Lowest Performing Brands by Profit %
+
+These KPIs help businesses evaluate pricing strategy effectiveness and brand performance.
+
+# 📈 Key Insights
+
+Based on the analysis:
+
+* Some brands rely heavily on high discount strategies to drive sales.
+
+* Premium brands maintain higher average sales prices.
+
+* A small number of brands dominate product variety and catalog size.
+
+* Several brands show low profitability, indicating potential pricing inefficiencies.
+
+# 📚 Key Learnings
+
+This project strengthened my skills in:
+
+* Designing cloud-based data pipelines
+
+* Writing SQL queries for data cleaning
+
+* Integrating Azure SQL with Power BI
+
+* Creating interactive business dashboards
+
+* Presenting analytics projects professionally on GitHub
+
+# 🚀 Future Improvements
+
+Potential enhancements include:
+
+* Deploying dashboards to Power BI Service
+
+* Implementing automated data refresh
+
+* Adding advanced DAX calculations
+
+* Expanding the dataset for deeper analysis
+
+* Integrating Azure Data Factory for automated ETL
+
+# 👨‍💻 Author
+
+Mohd Asad
+
+MCA Student | Aspiring Data Analyst
+Skills: SQL • Power BI • Azure SQL • Data Analytics
+
+⭐ If you found this project helpful, consider starring the repository.
+
 
 
 
